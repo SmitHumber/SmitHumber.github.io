@@ -15,4 +15,4 @@ Examples of how to use the project
 
 
 ### authors
-Smit Patel, Jahseem Mosely & Abdulkadir Abdirahman
+Smit Patel & Abdulkadir Abdirahman
